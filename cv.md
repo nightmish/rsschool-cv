@@ -1,12 +1,12 @@
-#Mikhail Tetiukhin#
+# Mikhail Tetiukhin #
 
 *****
 
-![avatar](https://wampi.ru/image/RZSNeIl)
+![avatar](https://i.ibb.co/JtVDr3V/myphoto.jpg)
 
 *****
 
-##Contacts##
+## Contacts ##
 
 * Location:Saint-Petersburg, Russia
 
@@ -18,7 +18,7 @@
 
 *****
 
-##Bio##
+## Bio ##
 
 * 1990 Born to be a developer
 
@@ -36,7 +36,7 @@
 
 *****
 
-##Software Skills##
+## Software Skills ##
 
 * Adobe Photoshop
 
