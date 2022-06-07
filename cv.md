@@ -1,39 +1,49 @@
-#**Mikhail Tetiukhin**#
-=====
-![avatar](https://wampi.ru/image/RZSNeIl "My photo")
-=====
-##**Contacts**##
-*Location:Saint-Petersburg, Russia
+#Mikhail Tetiukhin#
 
-*WhatsApp:89673475503
+*****
 
-*Telegram:@nightmish
+![avatar](https://wampi.ru/image/RZSNeIl)
 
-*E-mail:nightmish@gmail.com
-=====
-##**Bio**##
-*1990 Born to be a developer
+*****
 
-*1996 First PC experience
+##Contacts##
 
-*2004 Games addons development (CS 1.6 maps/GTA mods)
+* Location:Saint-Petersburg, Russia
 
-*2006 First HTML experience
+* WhatsApp:89673475503
 
-*2012 Regular army commanding experience (Junior Sergeant)
+* Telegram:@nightmish
 
-*2014 First deployed web-sites (Wordpress)
+* E-mail:nightmish@gmail.com
 
-*2022 JS/Front-end student (Rolling Scopes School)
-=====
-##**Software Skills**##
+*****
 
-*Adobe Photoshop
+##Bio##
 
-*Wordpress
+* 1990 Born to be a developer
 
-*VScode
+* 1996 First PC experience
 
-*Office software
+* 2004 Games addons development (CS 1.6 maps/GTA mods)
 
-*Git
+* 2006 First HTML experience
+
+* 2012 Regular army commanding experience (Junior Sergeant)
+
+* 2014 First deployed web-sites (Wordpress)
+
+* 2022 JS/Front-end student (Rolling Scopes School)
+
+*****
+
+##Software Skills##
+
+* Adobe Photoshop
+
+* Wordpress
+
+* VScode
+
+* Office software
+
+* Git
